@@ -24,15 +24,12 @@ $ python3 cam-hackers.py
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
 
-# Jangan Lupa Klik Dibawah ini Untuk Follow Saya
+# Jangan Lupa Follow
 
 <p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/@km7ujuh?sub_confirmation=1">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
-  </a>
-  <a href="https://www.instagram.com/kiplymacho/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
-</p>
+
+  Follow Me On&nbsp;</p><p align="center">Youtube</p><p align="center"><span style="text-align: left;">👇👇</span></p>
+
+  <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.youtube.com/@km7ujuh">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👇👇&nbsp;</p>
+
+   <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.instagram.com/kiplymacho">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p></p>
