@@ -13,6 +13,12 @@ kiplymacho
 
 </p> 
 
+sistem yang dibutuhkan 
+
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
+
+https://sfile.mobi/1Pk3b69xugs7
+
 # Cam-Hackers
 
 Hack Cameras
